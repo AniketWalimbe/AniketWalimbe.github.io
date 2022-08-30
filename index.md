@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+This is a small blog made for ST 558 course: Data Science for Statisticians which discusses the roles of a data scientist
 
-Maybe say a some things about yourself.
+and a Statistician and the similarities and differences between the two. 
 
-Or maybe what you plan to blog about.
+
