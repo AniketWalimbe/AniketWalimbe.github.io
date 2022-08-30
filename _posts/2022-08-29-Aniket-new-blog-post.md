@@ -1,3 +1,5 @@
+# Data Scientists or Statisticians ?
+
 ## Being a Data Scientist
 
 A Venn diagram created by Hugh Conway in 2010, defines a data scientist as a person who has high knowlegde in 3 domains namely: maths and statistics, hacking skills and having knowledge about a specific domain or subject.
