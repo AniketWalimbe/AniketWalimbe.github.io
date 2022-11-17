@@ -20,5 +20,5 @@ On the other hand, automating and building models on a huge dataset was a big pl
 
 The github repo to the project can be found [here](https://github.com/shaoyucherish/Project3)
 
-The link to the README file can be found [here](https://shaoyucherish.github.io/Project3/)
+The link to the rendered file can be found [here](https://shaoyucherish.github.io/Project3/)
 
