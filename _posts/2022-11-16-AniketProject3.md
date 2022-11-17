@@ -16,7 +16,7 @@ To determine the best models, we compared the RMSE values of all the models and 
 ## Challenges and Learnings 
 
 One of the most challenging part of the project was to determine the variables to be selected for creating the models. That is also one of the things I would do differently since, the RMSE values for the models created are very high. Maybe, better selection of models can improve the prediction of the response variable.
-On the other hand, automating and building models on a huge dataset was a big plus which makes me comfortable to work with large amount of data now. 
+On the other hand, automating and building models on a huge dataset was a big plus which makes me comfortable to work with large amount of data now. The project also stresses on the importance of EDA since a lot of things about the data can be understood from it.
 
 The github repo to the project can be found [here](https://github.com/shaoyucherish/Project3)
 
